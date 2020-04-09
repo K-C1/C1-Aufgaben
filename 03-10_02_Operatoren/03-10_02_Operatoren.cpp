@@ -1,5 +1,10 @@
 #include <iostream>
 
+/* Aufgabe 2:
+* Entwickeln Sie eine C++-Anwendung, die den Anwender zur Eingabe einer vierstelligen Zahl auffordert.
+* Das Programm soll daraufhin die Quersumme der vierstelligen Zahl errechnen und das Ergebnis auf den Bildschirm ausgeben.
+*/
+
 int main()
 {
    int a, a2, b, b2, b3;

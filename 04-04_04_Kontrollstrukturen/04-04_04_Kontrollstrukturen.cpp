@@ -13,9 +13,10 @@ int main()
    //Variante 1 - Array fest (Beispiele)
 //   int a [4] = { 12, 24, 48, 64 };
 //   int a [4] = { 234, 877, 12, -5 };
-   int a [4] = { -56, 32, -98, 7 };
+//   int a [4] = { -56, 32, -98, 7 };
 //   int a [4] = {1023, -7, 34, 5};
 //   int a [4] = {2, 2, 2, 2};
+   int a [4] = {2, 5, 2, 5};
 
    //Variante 2 - Array eingeben
 // /*

@@ -1,6 +1,6 @@
 # C1-Aufgaben
 
-## License:
+## License
 
 All provided code is based on the books and ideas published by Boris Schäling on http://highscore.de/cpp/einfuehrung/index.html which is licensed unter CC BY-NC-ND 3.0 Germany
 

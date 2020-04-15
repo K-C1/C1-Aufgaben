@@ -4,6 +4,8 @@
 * Entwickeln Sie eine C++-Anwendung, die die kleinste und größte Zahl von vier vorgegebenen Zahlen ermittelt, die in einem Array vom Typ int gespeichert sind.
 * Das Programm soll auf den Bildschirm die größte und die kleinste Zahl aus dem Array ausgeben.
 * Testen Sie Ihr Programm, indem Sie im Array verschiedene Zahlen speichern und die größte und kleinste Zahl sich jeweils an verschiedenen Stellen im Array befindet.
+*
+* Quelle: http://highscore.de/cpp/einfuehrung/index.html Boris Schäling
 */
 
 int main()

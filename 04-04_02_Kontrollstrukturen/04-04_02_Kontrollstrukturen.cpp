@@ -1,7 +1,10 @@
 #include <iostream>
 
-// Aufgabe 2:
-// Erweitern Sie das Programm aus Aufgabe 1 derart, dass die Quersummer einer beliebigen Zahl errechnet wird.
+/* Aufgabe 2:
+* Erweitern Sie das Programm aus Aufgabe 1 derart, dass die Quersummer einer beliebigen Zahl errechnet wird.
+*
+* Quelle: http://highscore.de/cpp/einfuehrung/index.html Boris Schäling
+*/
 
 // (Lösung ist Variante 2 aus Aufgabe 1)
 

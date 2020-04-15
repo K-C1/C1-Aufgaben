@@ -4,6 +4,8 @@
 /* Aufgabe 3:
 * Entwickeln Sie eine C++-Anwendung, die den Anwender zur Eingabe einer Zahl auffordert. Das Programm soll daraufhin errechnen, ob es sich um eine Primzahl handelt.
 * Ist dies der Fall, soll eine entsprechende Meldung auf den Bildschirm ausgegeben werden. Andernfalls soll die Meldung ausgegeben werden, dass es sich um keine Primzahl handelt.
+*
+* Quelle: http://highscore.de/cpp/einfuehrung/index.html Boris Schäling
 */
 
 int main()

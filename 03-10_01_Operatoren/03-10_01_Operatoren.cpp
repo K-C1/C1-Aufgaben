@@ -4,6 +4,8 @@
 * Entwickeln Sie eine C++-Anwendung, die den Anwender zur Eingabe von drei Zahlen auffordert.
 * Das Programm soll den Wert 10 zur ersten eingegebenen Zahl hinzuaddieren, das Ergebnis mit der zweiten eingegebenen Zahl multiplizieren und dann durch die dritte eingegebene Zahl dividieren.
 * Die Berechnung soll hierbei innerhalb einer einzigen Code-Zeile erfolgen. Das Ergebnis soll auf den Bildschirm ausgegeben werden.
+*
+* Quelle: http://highscore.de/cpp/einfuehrung/index.html Boris Schäling
 */
 
 int main()

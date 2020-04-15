@@ -3,6 +3,8 @@
 /* Aufgabe 2:
 * Entwickeln Sie eine C++-Anwendung, die den Anwender zur Eingabe einer vierstelligen Zahl auffordert.
 * Das Programm soll daraufhin die Quersumme der vierstelligen Zahl errechnen und das Ergebnis auf den Bildschirm ausgeben.
+*
+* Quelle: http://highscore.de/cpp/einfuehrung/index.html Boris Schäling
 */
 
 int main()

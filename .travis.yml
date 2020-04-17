@@ -1,15 +1,18 @@
 language: bash
 
 script:
-- echo "This is bash"
-- NAMES=$(find . -maxdepth 1 -type d -name "0*") 
-#- find . -maxdepth 1 -type d -name "0*" -mmin -5
-- for name in NAMES[@]; do
-     echo "name is: $(name)"
-  done
-- for name in NAMES[@]; do
-     cd name
-     make clean
-     make
-     cd ..
-  done
+- echo "Hello K-C1, this is bash"
+
+
+
+
+
+
+
+
+
+
+
+
+
+

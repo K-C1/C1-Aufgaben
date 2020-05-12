@@ -2,11 +2,11 @@ class bankkonto
 {
     bool authenticated;
     float kontostand;
+    const std::string pin;
 
   public:
-    const std::string account;
     const std::string ec;
-    const std::string pin;
+    const std::string account;
     bankkonto(std::string Konto, std::string Benutzer, std::string Passwort, float Betrag) : authenticated(false), account(Konto), ec(Benutzer), pin(Passwort), kontostand(Betrag)
     {
     }
